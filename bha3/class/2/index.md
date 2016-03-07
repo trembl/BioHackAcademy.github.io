@@ -1,8 +1,9 @@
---
+---
 layout: page
 title: Class 2 - Microbiology
 permalink: /bha3/class/2/
 ---
+
 
 ## Synopsys
 
