@@ -9,15 +9,15 @@ Biohack Academy is an education program of Waag Society Amsterdam. Held for the 
 The team behind the first edition consists of:
 
 * Pieter van Boheemen (main coordinator)
+* Xiamyra Daal (assistant coordinator)
 * Lucas Evers (bio art & design expert)
-* Maria Boto Ordoñez (biotech assistant)
-* Hany Saad (fabrication assistant)
-* Veit Penzenstadler (fabrication assistant)
-* Jelmer Cnossen (prototyping)
+* Nicolo Merendino (prototyping)
+* Roland van Dierendonck (biotech assistant)
+* Luke Boorman (biotech assistant)
 
 You can find more information on [waag.org/biohackacademy](http://www.waag.org/biohackacademy)
 
-Interested in joining the second edition? [Sign up for the BioHack Academy II](www.waag.org/bha2)
+Interested in joining the fourth edition? Soon you can sign up for the Biohack Academy IV
 
 ![Waag Society Open Wetlab]({{ site.baseurl }}/biofactory/graphics/WS_openwetlab_logo.png)
 
