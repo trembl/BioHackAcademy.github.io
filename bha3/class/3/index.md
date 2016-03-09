@@ -10,14 +10,12 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 
 ## Schedule
 
-* Physiology
-* Creative Bio Equipment
-* Digital Electronics 
-* Incubator Design
-* BioStrike
+* [Physiology](/bha3/class/3/1 Microbial Physiology.pdf)
+* [Digital Electronics](/bha3/class/3/3 Arduino.pdf)
+* [Incubator Design](/bha3/class/3/4 Incubator design.pdf)
 * Practicals
   * Isolating microbes
-  * Antibiotics screening
+  * [Antibiotics screening](/bha3/class/3/Plant-Extraction.pdf)
   * Arduino coding
 
 ## Devices
