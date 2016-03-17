@@ -9,6 +9,7 @@ permalink: /bha3/participants/documentation/
 Please send the link to your documentation site as soon as it is setup to [pieter@waag.org](mailto:pieter@waag.org). I will add you to the list.
 
 * [Waag Society](http://www.waag.org) - Netherlands
+  * [Thomas](http://thomashoogewerf.nl/Biohack/biohack.html)
 
 * SDU - Denmark
 
