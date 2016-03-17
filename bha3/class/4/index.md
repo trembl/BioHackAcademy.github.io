@@ -15,10 +15,10 @@ cultures have grown. The subject of this class is optics and biomaterial product
 * Optics
 * Microscope Design
 * Practicals
-  * Preparing microscope slides
-  * Operating a microscope
-  * Gram Staining
-  * Loeffler Methylene Blue Staining
+  * [Preparing microscope slides](/bha3/class/4/preparing-slides/)
+  * [Operating a microscope](/bha3/class/4/operating-microscope/)
+  * [Gram Staining](/bha3/class/4/gram-staining/)
+  * [Loeffler Methylene Blue Staining](/bha3/class/4/loeffler-staining/)
 
 ## Devices
 
