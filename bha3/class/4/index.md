@@ -43,6 +43,7 @@ In order to take part in this class you will need the following materials:
 
 * Microscopy
   * [Microscopy theory](http://micro.magnet.fsu.edu/primer/anatomy/anatomy.html)
+  * [DIY stainings](http://www.crscientific.com/microscope-stain.html)
   * [Microbehunter](http://www.microbehunter.com/)
   * [Yahoo Microscopy Group](https://groups.yahoo.com/neo/groups/Microscope/info)
 * DIY Designs
