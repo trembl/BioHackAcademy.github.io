@@ -21,7 +21,7 @@ Previous editions of the BioHack Academy have been made possible by:
 * Veit Penzenstadler (fabrication assistant)
 * Jelmer Cnossen (prototyping)
 
-You can find more information on [waag.org/biohackacademy](http://www.waag.org/biohackacademy)
+More information on [waag.org/biohackacademy](http://www.waag.org/biohackacademy)
 
 Interested in joining the fourth edition? Soon you can sign up for the Biohack Academy IV
 
