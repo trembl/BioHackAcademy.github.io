@@ -15,6 +15,12 @@ The team behind the first edition consists of:
 * Roland van Dierendonck (biotech assistant)
 * Luke Boorman (biotech assistant)
 
+Previous editions of the BioHack Academy have been made possible by:
+* Maria Boto Ordoñez (biotech assistant)
+* Hany Saad (fabrication assistant)
+* Veit Penzenstadler (fabrication assistant)
+* Jelmer Cnossen (prototyping)
+
 You can find more information on [waag.org/biohackacademy](http://www.waag.org/biohackacademy)
 
 Interested in joining the fourth edition? Soon you can sign up for the Biohack Academy IV
