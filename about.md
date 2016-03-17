@@ -16,6 +16,7 @@ The team behind the first edition consists of:
 * Luke Boorman (biotech assistant)
 
 Previous editions of the BioHack Academy have been made possible by:
+
 * Maria Boto Ordoñez (biotech assistant)
 * Hany Saad (fabrication assistant)
 * Veit Penzenstadler (fabrication assistant)
