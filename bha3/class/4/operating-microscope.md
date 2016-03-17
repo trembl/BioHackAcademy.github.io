@@ -43,4 +43,4 @@ Underneath the stage a third lens setup can be found. This is the condenser. Usi
 1. Switch of the light!!
 2. Select the 10x objective.
 
-Back to [BHA3 - Class 4](/bha2/class/4/)
+Back to [BHA3 - Class 4](/bha3/class/4/)
