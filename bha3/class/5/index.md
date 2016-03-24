@@ -10,9 +10,9 @@ This week we will start working with DNA, the fundamental building block of life
 
 ## Schedule
 
-* Genetics
-* Biomaterials
-* Thermocycler, Gel box and power supply Design
+* [Biomaterials](/bha3/class/5/pdf/1 - Biomaterials.pdf)
+* [Genetics](/bha3/class/5/pdf/2 - Genetics.pdf)
+* [Thermocycler, Gel box and power supply Design](/bha/class/5/pdf/3 - Thermocycler Design.pdf)
 * Practicals
   * [DNA extraction](/bha3/class/5/DNA-extraction/)
   * [DNA profiling](http://bio-rad.com/en-us/product/forensic-dna-fingerprinting-kit)
