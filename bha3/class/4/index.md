@@ -46,6 +46,8 @@ In order to take part in this class you will need the following materials:
   * [DIY stainings](http://www.crscientific.com/microscope-stain.html)
   * [Microbehunter](http://www.microbehunter.com/)
   * [Yahoo Microscopy Group](https://groups.yahoo.com/neo/groups/Microscope/info)
+  * [Lens simulations](http://educypedia.karadimov.info/education/physicsjavalabolenses.htm)
+  * [Single lens simulation](https://phet.colorado.edu/sims/geometric-optics/geometric-optics_en.html)
 * DIY Designs
   * [3D printable microscope](http://www.thingiverse.com/thing:77450)
   * [OneDollar Compound Microscope](http://www.funsci.com/fun3_en/ucomp1/ucomp1.htm)
