@@ -14,6 +14,7 @@ The team behind the first edition consists of:
 * Nicolo Merendino (prototyping)
 * Roland van Dierendonck (biotech assistant)
 * Luke Boorman (biotech assistant)
+* Wieke Betten - Ethics guest lecturer
 
 Previous editions of the BioHack Academy have been made possible by:
 
@@ -21,6 +22,8 @@ Previous editions of the BioHack Academy have been made possible by:
 * Hany Saad (fabrication assistant)
 * Veit Penzenstadler (fabrication assistant)
 * Jelmer Cnossen (prototyping)
+* Sonja Baumel - Guest lecturer
+* Adam Brown - Guest lecturer
 
 More information on [waag.org/biohackacademy](http://www.waag.org/biohackacademy)
 
