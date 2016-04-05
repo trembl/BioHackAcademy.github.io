@@ -18,9 +18,9 @@ Visualize cell nuclei in eukaryote cells.
 
 ## Composition of the stain
 
-* Methylene Blue				3.0 g
-* Potassium Hydroxide, 10%		1.0 ml
-* Ethanol, 95%					300.0 ml
+* Methylene Blue			          	3.0 g
+* Potassium Hydroxide KOH, 10%		1.0 ml
+* Ethanol, 95%			         		300.0 ml
 
 ## Method
 
