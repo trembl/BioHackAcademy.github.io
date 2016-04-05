@@ -12,32 +12,44 @@ In order to take a close look at a biological sample, you will need to prepare a
 
 * 1 Microscope object slide
 * 1 Microscope cover slide
-* 1 Gasburner
-* 1 Glass pasteur pipette or micropipette with sterile tip
+* 1 Gas burner
 * 1 Paper towel
-* a droplet of demi water
-* 1 inoculation loop
+* Demi water
+* For tissue: razor blade / sectioning knife
+* For colonies on solid medium: 1 inoculation loop
+* For liquid cultures: 1 Glass Pasteur pipette or micropipette with sterile tip
+
+
+## Method for tissues
+
+1. Cut a piece of tissue as thin as possible
+2. Put a small droplet of water on an object slide.
+3. Put the piece of tissue into the droplet. Make sure the tissue stretches and does not curls.
+4. a.Continue with staining OR 
+   b.put on the cover slide
+
+
+## Method for colonies on solid medium
+
+1. Put a small droplet of water on an object slide.
+2. Turn on the gas burner and heat up the inoculation loop until it's red hot.
+3. Let the loop cool down close to the flame.
+4. Open up the Petri dish and check whether loop is cooled down by touching a clear spot of the agar.
+4. Stick the loop into a colony.
+5. Swirl the loop through the droplet on the object slide.
+6. a.Continue with staining. OR 
+   b. Put on the cover slide.
 
 ## Method for liquid cultures
 
-1. Put the object slide on the table in front of you.
-2. Turn on the gasburner and heat up the glass pasteur pipette. In case you are using sterile micropipette tips, just turn on the gasburner and work close to the flame.
+1. Put a small droplet of water on an object slide.
+2. Turn on the gas burner and heat up the glass Pasteur pipette. In case you are using sterile micropipette tips, just turn on the gas burner and work close to the flame.
 3. Take the pipette into your primary hand and the flask with culture in the other.
 4. Take out the cotton plug with the pinky finger of the hand that's holding the pipette and quickly move the opening of the flask through the flame.
 5. Take up a small sample with the pipette.
 6. Move the opening of the flask through the flame once more and put the plug back in.
 7. Transfer the droplet onto the object slide.
-8. Cover the droplet with the cover slide.
-9. Dispose of any excess liquid using the paper towel.
-10. Dispose of the used pasteur pipette.
+8. a. Continue with staining OR b.Cover the droplet with a cover slide. 
 
-## Method for colonies on solid medium
-
-1. Put a small droplet of water on a object slide.
-2. Turn on the gasburner and heat up the inoculation loop until it's red hot.
-3. Open up the petri dish and cool down the loop by touching the agar.
-4. Stick the loop into the colony.
-5. Swirl the loop through the droplet on the object slide.
-6. Cover the droplet with the cover slide.
 
 Back to [BHA3 - Class 4](/bha3/class/4/)
