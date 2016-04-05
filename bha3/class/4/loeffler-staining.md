@@ -16,11 +16,17 @@ Visualize cell nuclei in eukaryote cells.
 * Tap water
 * Blotting paper
 
+## Composition of the stain
+
+* Methylene Blue				3.0 g
+* Potassium Hydroxide, 10%		1.0 ml
+* Ethanol, 95%					300.0 ml
+
 ## Method
 
 1. Prepare a drop of sample on your microscope slide according to our [Method](/bha3/class/4/preparing-slides/)
 2. Air dry the sample for 5 to 10 minutes.
-3. Soak the cells in a drop of 95% alcohol to de-hydrate the cells
+3. Soak the cells in a drop of 95% alcohol to dehydrate the cells
 4. Air dry the sample for 5 to 10 minutes, make sure all the alcohol is evaporated
 5. Fixate the cells by quickly moving the object glass through a flame.
 6. Let the sample cool down.
@@ -29,10 +35,6 @@ Visualize cell nuclei in eukaryote cells.
 9. Air dry the sample.
 10. Cover the sample with a cover slide.
 11. Take a look at the sample through the microscope with the diaphragm fully open.
-
-# Composition of the stains
-
-* Loeffler's solution: 30 mL of methylene blue in alcohol solution + 100 mL 0.01% KOH solution in water
 
 ![Gram Stain](/bha3/class/4/loeffler-methylene-blue-stain.jpg)
 
