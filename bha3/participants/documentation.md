@@ -10,7 +10,7 @@ Please send the link to your documentation site as soon as it is setup to [piete
 
 * [Waag Society](http://www.waag.org) - Netherlands
   * [Thomas](http://thomashoogewerf.nl/Biohack/biohack.html)
-  * [Jessica](https://github.com/JesbeirBioHacks/JessicaMesquita)
+  * [Jessica](https://JessicaMesquita.github.io)
   * [Marijan](http://marijan1.github.io)
   * [Janine]( http://janinehuizenga.github.io)
 
