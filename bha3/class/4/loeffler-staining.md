@@ -14,7 +14,11 @@ Visualize cell nuclei in eukaryote cells.
 * 95% alcohol
 * Loeffler's methylene blue solution
 * Tap water
-* Blotting paper
+* Bucket or beaker glass
+* Blotting paper (alternatively: Tork roll or toilet paper)
+* Clear nail polish
+* Acetone
+* Cotton swab
 
 ## Composition of the stain
 
@@ -31,12 +35,16 @@ Visualize cell nuclei in eukaryote cells.
 5. Fixate the cells by quickly moving the object glass through a flame.
 6. Let the sample cool down.
 7. Add the Loeffler's solution for about 60 seconds.
-8. Rinse the slide with tap water.
-9. Air dry the sample.
-10. Cover the sample with a cover slide.
-11. Take a look at the sample through the microscope with the diaphragm fully open.
+8. Remove excess stain by bathing / dipping your glass slide into a beaker glass / bucket with tap water.
+9. Remove excess water using blotting paper.
+10. Let the slide air dry to get rid of the remaining water.
+11. Put 2 drops of clear nail polish onto the sample.
+12. Cover the sample with a cover slide.
+13. Try to get rid of air bubbles by putting light pressure on the cover slide.
+14. Remove excess nail polish with a cotton swab with acetone.
+15. Take a look at the sample through the microscope with the diaphragm fully open.
 
-![Gram Stain](/bha3/class/4/loeffler-methylene-blue-stain.jpg)
+![Loeffler stain](/bha3/class/4/loeffler-methylene-blue-stain.jpg)
 
 Microscopic image of onion cells stained with methylene blue, so the nuclei are visible. Magnification: 100x. - Picture by [
 Umberto Salvagnin](https://www.flickr.com/photos/kaibara/3839720754/) CC BY 2.0 license 
