@@ -6,7 +6,7 @@ permalink: /bha3/class/4/gram-staining/
 
 ## Goal
 
-Assess whether the biological sample contains Gram positive or Gram negative strains.
+Assess whether the biological sample contains Gram positive or Gram negative bacterial strains.
 
 ## Materials
 
@@ -15,23 +15,37 @@ Assess whether the biological sample contains Gram positive or Gram negative str
 * 95% alcohol
 * Iodine
 * Safranin
+* 3x Bucket or beaker glass (or wash in between stainings)
 * Tap water
-* Blotting paper
+* Blotting paper (alternatively: Tork roll or toilet paper)
+* Clear nail polish
+* Acetone
+* cotton swab
+
+### Composition of the stains
+
+* Crystal violet: 1 g of dry crystal violet in 10 mL 95% ethanol
+* Iodine solution: 1 g of iodine in 100 mL water
+* Safranin: 0.25 g of safrin in 10 mL 95% ethanol and 90 mL water
 
 ## Method
 
-1. Prepare a drop of sample on your microscope slide according to our [Method](/bha3/class/4/preparing-slides/)
+1. Prepare a drop of sample on your microscope slide according to the [Method](/bha3/class/4/preparing-slides/)
 2. Leave the sample to air dry for 5 to 10 minutes.
 3. Fixate by moving the slide back and forth through a flame for a few seconds.
 4. Stain the sample by a droplet of crystal violet and let it stain for max 60 seconds.
-5. Wash the crystal violet by tap water.
+5. Remove excess stain by bathing / dipping your glass slide into a beaker glass / bucket with tap water.
 6. Add the iodine solution for 60 seconds.
-7. Wash with tap water.
-8. Decolorize using 95 % ethanol and immediately rinse with tap water. Don't let it on the slide for too long.
+7. Remove excess stain as described before.
+8. Decolourise using 95 % ethanol and immediately rinse with tap water. Don't leave the ethanol on the slide for too long.
 9. Counter stain with safranin for about 60 seconds.
-10. Wash of the stain with tap water.
-11. Remove excess water using the blotting paper.
-12. Cover the sample with a cover slide.
+10. Remove excess stain as described before.
+11. Remove excess water using blotting paper.
+12. Let slide air dry to get rid of the remaining water.
+13. Put 2 drops of clear nail polish onto the sample.
+14. Cover the sample with a cover slide.
+15. Try to get rid of air bubbles by putting light pressure on the cover slide.
+16. Remove excess nail polish with a cotton swab with acetone.
 13. Take a look with the microscope with full light intensity (open diaphragma)
 
 ## Interpreting the results
@@ -39,11 +53,6 @@ Assess whether the biological sample contains Gram positive or Gram negative str
 * Gram positive cells appear violet
 * Gram negative cells appear red
 
-# Composition of the stains
-
-* Crystal violet: 1 g of dry crystal violet in 10 mL 95% ethanol
-* Iodine solution: 1 g of iodine in 100 mL water
-* Safranin: 0.25 g of safrin in 10 mL 95% ethanol and 90 mL water 
 
 ![Gram Stain](/bha3/class/4/gram-stain.jpg)
 
