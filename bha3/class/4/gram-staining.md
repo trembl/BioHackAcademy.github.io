@@ -20,7 +20,7 @@ Assess whether the biological sample contains Gram positive or Gram negative bac
 * Blotting paper (alternatively: Tork roll or toilet paper)
 * Clear nail polish
 * Acetone
-* cotton swab
+* Cotton swab
 
 ### Composition of the stains
 
