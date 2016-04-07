@@ -14,7 +14,7 @@ Build your own incubator, a constant environment for growing microbes. A crash c
 * [Digital Electronics](/bha3/class/3/pdf/3 Arduino.pdf)
 * [Incubator Design](/bha3/class/3/pdf/4 Incubator design.pdf)
 * Practicals
-  * Isolating microbes
+  * Isolating microbes(http://www.ableweb.org/volumes/vol-14/6-steubing.pdf)
   * [Antibiotics screening](/bha3/class/3/pdf/Plant-Extraction.pdf)
   * Arduino coding
 
