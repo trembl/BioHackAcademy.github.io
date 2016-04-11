@@ -10,17 +10,12 @@ Now that you are gaining an understanding on how to manipulate life, it's about 
 
 ## Schedule
 
-<<<<<<< HEAD
-* [Bioethics](/bha3/class/7/pdf/Ethics.pdf)
-* [Seperation techniques / Centrifuge Design](/bha3/class/7/pdf/2 Centrifuge design.pdf)
-=======
 * [Lecture Bioethics]()
-* [Introduction Ethical Matrix](bha3/class/7/Intro Ethical Matrix.pdf)
-* [Ethical Tool - The Matrix](bha3/class/7/Ethical tool - the matrix BHA March 2016.pdf)
-* [Reflective Equilibrium Tool](bha3/class/7/Reflective equilibrium ethics tool BHA March 2016.pdf)
+* [Introduction Ethical Matrix](/Intro Ethical Matrix.pdf)
+* [Ethical Tool - The Matrix](/Ethical tool - the matrix BHA March 2016.pdf)
+* [Reflective Equilibrium Tool](/Reflective equilibrium ethics tool BHA March 2016.pdf)
 * Seperation techniques / biorefenery
 * Centrifuge Design
->>>>>>> origin/master
 * Practicals
   * Peer 2 Peer reviewing
   * [Chloroplast isolation](/bha3/class/7/chloroplast-isolation/)
