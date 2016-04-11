@@ -10,7 +10,10 @@ Now that you are gaining an understanding on how to manipulate life, it's about 
 
 ## Schedule
 
-* Bioethics
+* [Lecture Bioethics]()
+* [Introcudion Ethical Matrix](BioHackAcademy.github.io/bha3/class/7/Intro Ethical Matrix.pdf)
+* [Ethical Tool - The Matrix](BioHackAcademy.github.io/bha3/class/7/Ethical tool - the matrix BHA March 2016.pdf)
+* [Reflective Equilibrium Tool](BioHackAcademy.github.io/bha3/class/7/Reflective equilibrium ethics tool BHA March 2016.pdf)
 * Seperation techniques / biorefenery
 * Centrifuge Design
 * Practicals
