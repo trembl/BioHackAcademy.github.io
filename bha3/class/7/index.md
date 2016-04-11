@@ -10,9 +10,8 @@ Now that you are gaining an understanding on how to manipulate life, it's about 
 
 ## Schedule
 
-* Bioethics
-* Seperation techniques / biorefenery
-* Centrifuge Design
+* [Bioethics](/bha3/class/7/pdf/Ethics.pdf)
+* [Seperation techniques / Centrifuge Design](/bha3/class/7/pdf/2 Centrifuge design.pdf)
 * Practicals
   * Peer 2 Peer reviewing
   * [Chloroplast isolation](/bha3/class/7/chloroplast-isolation/)
