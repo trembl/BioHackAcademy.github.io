@@ -19,7 +19,7 @@ cultures have grown. The subject of this class is optics and biomaterial product
   * [Operating a microscope](/bha3/class/4/operating-microscope/)
   * [Gram Staining](/bha3/class/4/gram-staining/)
   * [Loeffler Methylene Blue Staining](/bha3/class/4/loeffler-staining/)
-  * [Alternative staining with food colouring](bha3/class/4/alternative-staining/)
+  * [Alternative staining with food colouring](/bha3/class/4/Alternative stain/)
 
 ## Devices
 
