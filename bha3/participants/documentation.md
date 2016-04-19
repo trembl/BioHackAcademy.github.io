@@ -17,7 +17,7 @@ Please send the link to your documentation site as soon as it is setup to [piete
 * SDU - Denmark
   * [Karen Lise Krabbe](https://www.facebook.com/understandingbacterialcellulose) - glass artist, [contact](karenlise@karenlisekrabbe.dk)	
   * [Mia Skovgaard](https://xonweb.tumblr.com/) - texiles, [contact](miaskovgaardandersen@gmail.com)
-  * Torsti Honkanen[wordpress](https://biohackkoldingphmeter.wordpress.com), [GitHub](TorstiHonkanen.github.io) - Auto engi, [contact](	torsti.honkanen@gmail.com)
+  * Torsti Honkanen [wordpress](https://biohackkoldingphmeter.wordpress.com), [GitHub](TorstiHonkanen.github.io) - Auto engi, [contact](	torsti.honkanen@gmail.com)
   * [Timea Szocs-Puskas](Biotec	https://biohackingtimipuskas.wordpress.com) - Biotec, [contact](timea.szocspuskas@gmail.com)
   * [Ferran Altarriba](http://www.ferranaltarriba.com/projects/biohack/)	- ITPD, [contact](Bertran	ferranaltarriba@gmail.com)
   * [Mirzel Avdic](https://github.com/mirzel92/MA_BioHack) - ITPD, [contact](miavd11@student.sdu.dk)
