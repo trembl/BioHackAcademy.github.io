@@ -15,14 +15,14 @@ Please send the link to your documentation site as soon as it is setup to [piete
   * [Janine]( http://janinehuizenga.github.io)
 
 * SDU - Denmark
-  * [Karen Lise Krabbe](https://www.facebook.com/understandingbacterialcellulose) - glass artist, [contact](karenlise@karenlisekrabbe.dk)	
+  * [Karen Lise Krabbe](https://www.facebook.com/understandingbacterialcellulose) - glass artist	
   * [Mia Skovgaard](https://xonweb.tumblr.com/) - texiles, [contact](miaskovgaardandersen@gmail.com)
-  * Torsti Honkanen [wordpress](https://biohackkoldingphmeter.wordpress.com), [GitHub](TorstiHonkanen.github.io) - Auto engi, [contact](	torsti.honkanen@gmail.com)
-  * [Timea Szocs-Puskas](Biotec	https://biohackingtimipuskas.wordpress.com) - Biotec, [contact](timea.szocspuskas@gmail.com)
-  * [Ferran Altarriba](http://www.ferranaltarriba.com/projects/biohack/)	- ITPD, [contact](Bertran	ferranaltarriba@gmail.com)
-  * [Mirzel Avdic](https://github.com/mirzel92/MA_BioHack) - ITPD, [contact](miavd11@student.sdu.dk)
-  * [Janne Mascha Beuthel](https://maschabiohack.wordpress.com/) - ITPD, [contact](jbeut15@student.sdu.dk)
-  * [Erica Vannucci](https://www.behance.net/gallery/35840391/Investigating-colors-PANTONE-vs-Bacterias) - ITPD, [contact](ervan15@student.sdu.dk)
+  * Torsti Honkanen [wordpress](https://biohackkoldingphmeter.wordpress.com), [GitHub](TorstiHonkanen.github.io) - Auto engi
+  * [Timea Szocs-Puskas](Biotec	https://biohackingtimipuskas.wordpress.com) - Biotec
+  * [Ferran Altarriba](http://www.ferranaltarriba.com/projects/biohack/)	- ITPD
+  * [Mirzel Avdic](https://github.com/mirzel92/MA_BioHack) - ITPD
+  * [Janne Mascha Beuthel](https://maschabiohack.wordpress.com/) - ITPD
+  * [Erica Vannucci](https://www.behance.net/gallery/35840391/Investigating-colors-PANTONE-vs-Bacterias) - ITPD
 
 * UNM - USA
   * [Lani Brush](https://github.com/lbrush/helloworld/wiki)
