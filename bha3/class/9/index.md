@@ -10,10 +10,10 @@ Microbes can generate a lot of data. Especially 3D data is beautiful and essenti
 
 ## Schedule
 
-* Bioinformatics
-* Spectrometer Design
+* [Bioinformatics](/bha3/class/9/pdf/1 Bioinformatics.pdf)
+* [Spectrometer Design](/bha3/class/9/pdf/2 Spectrometer design.pdf)
 * Practicals
-  * PyMol
+  * [PyMol](bha3/class/9/pdf/PyMol Tutorial.pdf)
   * [Iodine Clock Reaction](/bha3/class/9/iodine-clock-reaction/)
 
 ## Devices
