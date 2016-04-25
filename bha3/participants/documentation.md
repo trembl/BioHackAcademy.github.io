@@ -16,7 +16,7 @@ Please send the link to your documentation site as soon as it is setup to [piete
 
 * SDU - Denmark
   * [Karen Lise Krabbe](https://www.facebook.com/understandingbacterialcellulose) - glass artist	
-  * [Mia Skovgaard](https://xonweb.tumblr.com/) - texiles, [contact](miaskovgaardandersen@gmail.com)
+  * [Mia Skovgaard](https://xonweb.tumblr.com/) - texiles
   * Torsti Honkanen [wordpress](https://biohackkoldingphmeter.wordpress.com), [GitHub](TorstiHonkanen.github.io) - Auto engi
   * [Timea Szocs-Puskas](Biotec	https://biohackingtimipuskas.wordpress.com) - Biotec
   * [Ferran Altarriba](http://www.ferranaltarriba.com/projects/biohack/)	- ITPD
@@ -30,3 +30,13 @@ Please send the link to your documentation site as soon as it is setup to [piete
   * [Sean Simmons](https://github.com/ssimmons16/Sean-S-BioArtDesign/wiki)
 
 * [BioClub](http://www.bioclub.org) Tokyo - Japan
+  * [Mayumi Sakai](http://pandavsky.github.io)
+  * [Naoko Enomoto & Teruya Enomoto](http://teruyanaokoeno.wix.com/mysite)
+  * [Halfdan Rump](http://wrongbat.com/bha3/)
+  * [Masato Takemura](http://takespace.github.io/BioHackAcademy/)
+  * [Yuki Hanamure & Yuta Toga](http://mure-artworks.wix.com/mysite-1)
+  * [Saki Maruyama](http://sakibio.jimdo.com/)
+  * [Kana Nakano](Kana Nakano)
+  * [Yumi Nishihara](https://yuminishihara.github.io)
+
+
