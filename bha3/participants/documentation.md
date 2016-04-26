@@ -36,7 +36,7 @@ Please send the link to your documentation site as soon as it is setup to [piete
   * [Masato Takemura](http://takespace.github.io/BioHackAcademy/)
   * [Yuki Hanamure & Yuta Toga](http://mure-artworks.wix.com/mysite-1)
   * [Saki Maruyama](http://sakibio.jimdo.com/)
-  * [Kana Nakano](Kana Nakano)
+  * [Kana Nakano](https://medium.com/@nknkn)
   * [Yumi Nishihara](https://yuminishihara.github.io)
 
 
