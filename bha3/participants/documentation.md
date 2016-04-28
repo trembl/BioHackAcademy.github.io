@@ -17,7 +17,7 @@ Please send the link to your documentation site as soon as it is setup to [piete
 * SDU - Denmark
   * [Karen Lise Krabbe](https://www.facebook.com/understandingbacterialcellulose) - glass artist	
   * [Mia Skovgaard](https://xonweb.tumblr.com/) - texiles
-  * [Torsti Honkanen](http://TorstiHonkanen.github.io) - Auto engi
+  * [Torsti Honkanen](https://biohackkoldingphmeter.wordpress.com/) - Auto engi
   * [Timea Szocs-Puskas](Biotec	https://biohackingtimipuskas.wordpress.com) - Biotec
   * [Ferran Altarriba](http://www.ferranaltarriba.com/projects/biohack/)	- ITPD
   * [Mirzel Avdic](https://github.com/mirzel92/MA_BioHack) - ITPD
