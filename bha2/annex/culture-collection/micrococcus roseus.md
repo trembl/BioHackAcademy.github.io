@@ -10,7 +10,6 @@ categories: culture-collection
 * Pink pigment
 * Grows best on [Plate Count Agar](/bha2/annex/cultivation-media/plate-count-agar/) or [Nutrient Agar](/bha2/annex/cultivation-media/nutrient-agar/)
 * Find out more on [Wikipedia](http://en.wikipedia.org/wiki/Micrococcus_roseus) or [MicrobeWiki](https://microbewiki.kenyon.edu/index.php/Micrococcus)
-* Obtained from Dr. Simon Park
 
 ![micrococcus roseus]({{ site.baseurl }}/bha2/annex/culture-collection/MR.JPG) 
 

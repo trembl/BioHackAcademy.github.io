@@ -10,7 +10,6 @@ categories: culture-collection
 * Blue pigment
 * Grows best on [Plate Count Agar](/biofactory/annex/cultivation-media/plate-count-agar/)
 * Find out more on [Wikipedia](http://en.wikipedia.org/wiki/Vogesella_indigofera)
-* Obtained from Dr. Simon Park
 
 ![vogesella indoferra]({{ site.baseurl }}/biofactory/culture-collection/VI.JPG) 
 

@@ -9,7 +9,6 @@ categories: culture-collection
 
 * Orange pigment
 * Grows best on [Plate Count Agar](/biofactory/annex/cultivation-media/plate-count-agar/)
-* Obtained from Dr. Simon Park
 
 ![dermacoccus nishinomyaensis]({{ site.baseurl }}/biofactory/culture-collection/DN.JPG) 
 
