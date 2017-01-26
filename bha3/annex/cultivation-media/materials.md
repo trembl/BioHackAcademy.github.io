@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microbiology Practical Materials
-permalink: /bha3/annex/cultivation-media/materials.md
+permalink: /bha3/annex/cultivation-media/materials/
 ---
 
 As a participant of the Biohack Academy, you don't need to worry about where to get all the materials. But in case you are planning to continue experimenting at home, here is a list for future reference, and suggestions of what amount you might need on stock.
