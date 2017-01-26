@@ -19,4 +19,4 @@ This is a list of all the cultivation media we can use during the course. Please
 
 ## Materials
 
-Here is a list with where to get which [materials](/bha3/annex/cultivation-media/materials.md).
+Here is a list with where to get which [materials](/bha3/annex/cultivation-media/materials/).
